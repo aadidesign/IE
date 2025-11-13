@@ -1,0 +1,6 @@
+pandas==2.2.2
+streamlit==1.35.0
+regex==2025.7.34
+torch==2.3.1
+transformers==4.55.0
+gliner==0.2.20
